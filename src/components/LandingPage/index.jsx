@@ -6,7 +6,7 @@ import {
 
 const LandingPage = () => (
     <LandingPageContainer>
-        <Text>Comming Soon</Text>
+        <Text>Coming Soon</Text>
     </LandingPageContainer>
 );
 
